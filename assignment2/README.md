@@ -1,3 +1,5 @@
+# Module-2 Coding Assignment
 
-* [Module-2](https://vsbrall143.github.io/coursera/assignment2)
+Coursera course: HTML, CSS, and Javascript for Web Developers
 
+# To see the output [CLICK HERE](https://vsbrall143.github.io/coursera/assignment2)
